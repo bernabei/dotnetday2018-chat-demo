@@ -1,0 +1,10 @@
+creazione progetto asp.net core
+- dotnet new razor -au Individual --name dnu-chat-demo
+
+aggiunta pagina UI
+- cd dnu-chat-demo/Pages
+- dotnet new page --name Chat
+- aggiunta nella pagina HTML per UI e Authorize
+
+esecuzione
+- dotnet run
