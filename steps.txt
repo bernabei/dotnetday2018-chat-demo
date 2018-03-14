@@ -14,3 +14,10 @@ esecuzione
 
 aggiunta signalr
 - file ChatHub.cs in folder Hubs
+- configurazione signalr e hub in startup.cs
+
+
+
+utilizzo hub in pagina client
+- aggiunta lib clietn signalr (download con "npm install @aspnet/signalr")
+- aggiunta codice javascript nella pagina chat.cshtml
