@@ -21,3 +21,8 @@ aggiunta signalr
 utilizzo hub in pagina client
 - aggiunta lib clietn signalr (download con "npm install @aspnet/signalr")
 - aggiunta codice javascript nella pagina chat.cshtml
+
+
+esempi deploy
+- docker
+- vm linux
