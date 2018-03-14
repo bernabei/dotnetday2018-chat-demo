@@ -8,3 +8,9 @@ aggiunta pagina UI
 
 esecuzione
 - dotnet run
+- registrazione utente e test url /chat
+
+
+
+aggiunta signalr
+- file ChatHub.cs in folder Hubs
