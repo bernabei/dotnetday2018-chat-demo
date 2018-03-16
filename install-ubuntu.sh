@@ -39,6 +39,6 @@ sudo ufw allow 5000
 sudo ufw allow 5001
 
 # Enable and start 
-sudo systemctl enable sk
-sudo systemctl start sk
-sudo systemctl status sk
+sudo systemctl enable dnu-chat
+sudo systemctl start dnu-chat
+sudo systemctl status dnu-chat
